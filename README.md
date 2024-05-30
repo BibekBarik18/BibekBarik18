@@ -7,6 +7,9 @@
 ### My Stats 🔥
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Bibek_Barik?ext=activity)
 
+:star: GitHub Stats         |  🧑🏼‍💻
+:--------------------------:|:-------------------------: 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=BibekBarik18)](https://git.io/streak-stats) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BibekBarik18&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ####  Languages and Tools :
 
