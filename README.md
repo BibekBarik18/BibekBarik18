@@ -11,6 +11,8 @@
 :--------------------------:|:-------------------------: 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=BibekBarik18)](https://git.io/streak-stats) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BibekBarik18&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+[![An image of @bibekbarik18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bibekbarik18)](https://holopin.io/@bibekbarik18)
+
 ####  Languages and Tools :
 
 <div>
